@@ -758,4 +758,11 @@ footer{
   .footer-wrapper{
     flex-direction: column;
   }
+  .contactus-heading{
+    font-size: 3rem;
+  }
+  .contactus-sub-heading{
+    font-size: 1.5em;
+  }
+  
 }
