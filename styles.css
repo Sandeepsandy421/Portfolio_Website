@@ -764,5 +764,18 @@ footer{
   .contactus-sub-heading{
     font-size: 1.5em;
   }
+
+  .container skills-container{
+    margin: 1%;
+    padding: 2%;
+  }
+
+  .skill-container-left{
+       width: 80%;
+  }
+
+  .skill-container-right{
+    width: 60%;
+  }
   
 }
